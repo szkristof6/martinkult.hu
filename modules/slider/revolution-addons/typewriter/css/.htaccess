@@ -1,0 +1,6 @@
+
+#cxs has disabled web access to this file [core.php]
+<Files "core.php">
+Order Deny,Allow
+Deny from all
+</Files>
